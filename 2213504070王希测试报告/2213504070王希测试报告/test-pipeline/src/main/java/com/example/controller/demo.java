@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class demo {
     @GetMapping("hello")
     public String demo(){
-        return  "吕卡努";
+        return  "2213504070王希";
     }
 }
